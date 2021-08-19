@@ -1,0 +1,82 @@
+body {
+    background-color: cornsilk;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+
+}
+
+.konteiner {
+    max-width: auto;
+    min-width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pais {
+    width: auto;
+    height: 400px;
+    background-image: url("./pildid/galerii-pilt.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.pais h1 {
+
+    text-align: center;
+    font-weight: 700;
+    font-size: 3rem;
+    color: aliceblue;
+    line-height: 400px;
+}
+
+.kaardid {
+    width: 100%;
+    background-color: aliceblue;
+}
+
+.kaardid > div {
+    display: inline-block;
+    width: 33%;
+    border-style: solid;
+    border-width: 2px;
+    border-color: burlywood;
+    margin-left: -4px;
+    padding-bottom: 10px;
+}
+
+.kaart-pais {
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 250%;
+}
+
+.taust-galerii {
+    background-image: url("./pildid/galerii-pilt.jpg");
+}
+
+.kaart-tekst {
+    padding: 20px;
+}
+
+.kaart-jalus a {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 100px;
+    padding: 15px;
+    background-color: rgb(228, 143, 16);
+    color: white;
+    font-weight: bold;
+    font-size: 1rem;
+    max-width: 130px;
+    display: block;
+    text-decoration: none;
+    text-align: center;
+}
+
+.kaart-jalus:hover a {
+    background-color: purple;
+    
+}

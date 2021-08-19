@@ -1,0 +1,119 @@
+body {
+    background-color: coral;
+}
+
+.konteiner {
+    background-color: cornsilk;
+    min-width: 600px;
+    width: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+
+.kast {
+    width: 10%;
+    height: 10px;
+    background-color: darkgoldenrod;
+    border-width: 1px;
+    border-style: solid;   
+}
+.pilt1 {
+    background-image: url("./pildid/leslie.jpg");
+    background-size: cover;  
+
+}
+
+.kast {
+    width: 10%;
+    height: 10px;
+    background-color: darkgoldenrod;
+    border-width: 1px;
+    border-style: solid;
+  
+}
+.pilt2 {
+    background-image: url("./pildid/lovis.jpg");
+    background-size: cover;
+    
+}
+
+.kast {
+    width: 10%;
+    height: 10px;
+    background-color: darkgoldenrod;
+    border-width: 1px;
+    border-style: solid;
+  
+} 
+.pilt3 {
+    background-image: url("./pildid/rand.jpg");
+    background-size: cover;
+    image-resolution: 50px;
+
+}
+.kast {
+    width: 10%;
+    height: 10px;
+    background-color: darkgoldenrod;
+    border-width: 1px;
+    border-style: solid;
+
+}
+.pilt4 {
+    background-image: url("./pildid/trepp.jpg");
+    background-size: cover;
+
+}
+.kast {
+    width: 10%;
+    height: 10px;
+    background-color: darkgoldenrod;
+    border-width: 1px;
+    border-style: solid;
+
+}
+.pilt5 {
+    background-image: url("./pildid/sitikas.jpg");
+    background-size: cover
+    ;
+}
+.kast {
+    width: 32%;
+    height: 200px;
+    background-color: darkgoldenrod;
+    border-width: 1px;
+    border-style: solid;
+
+}
+.pilt6 {
+    background-image: url("./pildid/mõisavaremed.jpg");
+    background-size: cover;
+
+}
+.kast {
+    width: 32%;
+    height: 200px;
+    background-color: darkgoldenrod;
+    border-width: 1px;
+    border-style: solid;
+
+}
+.pilt7 {
+    background-image: url("./pildid/kindlusevaremed.jpg");
+    background-size: cover;
+
+}
+.pilt8 {
+     background-image: url("./pildid/lihula.jpg");
+     background-size: cover;
+     image-resolution: 70px;
+
+}
+.pilt9 {
+    background-image: url("./pildid/kassari.jpg");
+    background-size: cover;
+    image-resolution: 50px;
+
+}
+    

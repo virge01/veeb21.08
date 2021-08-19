@@ -1,0 +1,66 @@
+
+body {
+    background-color: rosybrown;
+}
+
+.konteiner {
+    background-color: salmon;
+    min-width: 900px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.kast {
+    width: 32%;
+    height: 500px;
+    background-color: tomato;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.pilt1 {
+    background-image: url("./pildid/karksilinnus.jpg");
+    background-size: cover;
+}
+
+.pilt2 {
+    background-image: url("./pildid/kassari.jpg");
+    background-size: cover;
+}
+
+.pilt3 {
+    background-image: url("./pildid/sitikas.jpg");
+    background-size: cover;
+}
+
+.pilt4 {
+    background-image: url("./pildid/olustvere.jpg");
+    background-size: cover;
+}
+
+.pilt5 {
+    background-image: url("./pildid/mälestuskivi.jpg");
+    background-size: cover;
+}
+
+.pilt6{ 
+    background-image: url("./pildid/trepp.jpg");
+    background-size: cover;
+
+}
+
+.pilt7 {
+    background-image: url("./pildid/sininelaguun.jpg");
+    background-size: cover;
+}
+
+.pilt8 {
+    background-image: url("./pildid/mõisavaremed.jpg");
+    background-size: cover;
+}
+
+.pilt9 {
+    background-image: url("./pildid/koluvere.jpg");
+}

@@ -1,0 +1,24 @@
+body {
+    background-color: peachpuff;
+}
+
+.konteiner {
+    background-color: plum;
+    min-width: 900px;
+    width: 95%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.kast {
+    width: 32;
+    height: 200px;
+    background-color: rgb(247, 241, 241);
+    border-width: 1px;
+    border-style: solid;
+}
+
+.pilt1 {
+    background-image: url("./Users/virge/Documents/20.08/veeb21.08/galerii02/pildigalerii"); 
+    background-size: cover;
+}

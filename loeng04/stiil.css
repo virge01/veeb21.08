@@ -1,0 +1,82 @@
+html {
+    font-size: 16px;
+}
+
+body {
+   background-color: bisque;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+#konteiner {
+    background-color: burlywood;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+
+}
+
+main {
+    display: flex;
+    padding: 0 15px;
+}
+
+aside {
+    min-width: 20%;
+    max-size
+
+}
+
+header {
+    display: flex: ;
+    padding: 15px;
+    align-items:center;
+}
+
+header nav {
+    margin-left: auto;
+}
+
+header .logo {
+    background-image: url("./pildid/");
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+}
+
+header nav a {
+    color: cadetblue;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+header nav a:hover {
+    color: coral;
+}
+
+main {
+     min-height: 600px;
+
+}
+main h2 {
+    font-size: 3rem;
+}
+
+aside img {
+     width: 70%;
+     object-fit: cover;
+
+}
+
+footer {
+     background-color: cornflowerblue;
+     color: cornsilk;
+     padding: 10px;
+     min-height: 100px;
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+
+}
+
+

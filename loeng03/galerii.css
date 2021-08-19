@@ -20,6 +20,6 @@ body {
 }
 
 .pilt1 {
-    background-image: url(./Users/virge/Documents/20.08/veeb21.08/loeng03/pildid/20210801_120738.jpg); 
+    background-image: url("./Users/virge/Documents/20.08/veeb21.08/loeng03/pildid/20210801_120738.jpg"); 
     background-size: cover;
 }
