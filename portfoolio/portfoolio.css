@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(248, 159, 121);
+    background-color: rgb(241, 174, 134);
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
 }
@@ -16,7 +16,7 @@ body {
     height: 400px;
     background-image: url("./pildid/galerii-pilt.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover;    
 }
 
 .pais h1 {
@@ -29,17 +29,17 @@ body {
 
 .kaardid {
     width: 100%;
-    background-color: rgb(246, 248, 250);
+    background-color: rgb(245, 243, 237);
 }
 
 .kaardid > div {
     display: inline-block;
     width: 33%;
     border-style: solid;
-    border-width: 1px;
-    border-color: burlywood;
+    border-width: 2px;
+    border-color: rgb(241, 153, 118);
     margin-left: -4px;
-    padding-bottom: 10px;
+    padding-bottom: 50px;
 }
 
 .kaart-pais {

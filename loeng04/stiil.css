@@ -13,7 +13,6 @@ body {
     margin-left: auto;
     margin-right: auto;
     padding: 15px;
-
 }
 
 main {
@@ -24,13 +23,12 @@ main {
 aside {
     min-width: 20%;
     max-size
-
 }
 
 header {
-    display: flex: ;
+    display: flex;
     padding: 15px;
-    align-items:center;
+    align-items: center;
 }
 
 header nav {
@@ -65,7 +63,6 @@ main h2 {
 aside img {
      width: 70%;
      object-fit: cover;
-
 }
 
 footer {
@@ -76,7 +73,6 @@ footer {
      display: flex;
      justify-content: space-around;
      align-items: center;
-
 }
 
 
