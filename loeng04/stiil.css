@@ -9,7 +9,7 @@ body {
 
 #konteiner {
     background-color: burlywood;
-    max-width: 900px;
+    max-width: 1200px;
     margin-left: auto;
     margin-right: auto;
     padding: 15px;
@@ -22,7 +22,7 @@ main {
 
 aside {
     min-width: 20%;
-    max-size
+    max-width: 30%;
 }
 
 header {

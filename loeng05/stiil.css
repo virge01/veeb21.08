@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(64, 230, 230);
+    font-size: 14px;
+}
+
+h1 {
+    font-size: 2rem;
+    color: rgb(243, 243, 250);
+}
+
+@media screen and (min-width: 600px) {
+    body {
+        background-color: rgb(233, 154, 97);
+        font-size: 20px;
+    }
+    
+    h1 {
+        color: aliceblue;
+    }
+}
+
+@media screen and (min-width: 900px) {
+    body {
+        background-color: chocolate;
+        font-size: 22px;
+    }
+        
+    h1 {
+        color: rgb(10, 124, 54)
+    }
+
+    ol {
+        display: flex;
+    }
+
+    ol li {
+        display: block;
+        margin-left: 10px;
+        margin-right: 25px;
+    }
+}
